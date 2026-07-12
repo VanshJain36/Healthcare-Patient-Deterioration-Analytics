@@ -376,7 +376,7 @@ Healthcare-Patient-Deterioration-Analytics/
 ### Executive Dashboard
 
 <p align="center">
-<img src="screenshots/dashboard-page-1.png" width="100%">
+<img src="screenshots/dashboard-Page-1.png" width="100%">
 </p>
 
 ---
